@@ -1,0 +1,3 @@
+[submodule "support/submodule-a"]
+	path = support/submodule-a
+	url = /Users/federicospini/workspace/submodule-a
